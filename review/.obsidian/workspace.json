@@ -13,50 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "メモ/Untitled.md",
+                "file": "コーディング全般/コメントの追加方式について.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fb9fa31f73e333b3",
+            "id": "9af3c11e948b75fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Contextの設定思想.md",
+                "file": "コーディング全般/メソッドの凝集度について.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "abf9c08915eff6fd",
+            "id": "9586f4eb4d7de004",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/関数コンポーネントについて.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9970feb8df0b2350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ステージング環境/ステージング環境でエラーが起こってしまった場合.md",
+                "file": "UI.UX/導線やページの設計時に考えること.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ステージング環境/ステージング環境でエラーが起こってしまった場合.md",
+                "file": "UI.UX/導線やページの設計時に考えること.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ステージング環境/ステージング環境でエラーが起こってしまった場合.md",
+                "file": "UI.UX/導線やページの設計時に考えること.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ステージング環境/ステージング環境でエラーが起こってしまった場合.md"
+                "file": "UI.UX/導線やページの設計時に考えること.md"
               }
             }
           }
@@ -183,28 +171,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9970feb8df0b2350",
+  "active": "9586f4eb4d7de004",
   "lastOpenFiles": [
-    "React/React Fragment について.md",
-    "Git/コミットを消した場合.md",
-    "Git/どうしてもうまく動作しない時.md",
-    "React/関数コンポーネントについて.md",
-    "ステージング環境/ステージング環境でエラーが起こってしまった場合.md",
-    "Untitled",
-    "ステージング環境/Untitled",
-    "ステージング環境",
-    "Git/基本的なステージングなどリモートブランチの運用方法.md",
-    "コーディング全般/コメントの追加方式について.md",
-    "React/Contextの設定思想.md",
-    "コーディング全般",
+    "コーディング全般/メソッドの凝集度について.md",
+    "UI.UX/導線やページの設計時に考えること.md",
+    "Untitled 1",
+    "UI.UX",
     "振り返り/2023/06/22日の学び.md",
-    "メモ/Untitled.md",
+    "コーディング全般/コメントの追加方式について.md",
+    "React/React Fragment について.md",
     "振り返り/2023/06",
     "振り返り/2023",
     "振り返り",
-    "TypeScript",
+    "メモ/Untitled.md",
     "メモ",
-    "Go",
+    "ステージング環境/ステージング環境でエラーが起こってしまった場合.md",
+    "コーディング全般",
+    "React/関数コンポーネントについて.md",
+    "React/Contextの設定思想.md",
+    "Git/基本的なステージングなどリモートブランチの運用方法.md",
+    "Git/コミットを消した場合.md",
+    "Git/どうしてもうまく動作しない時.md",
+    "Untitled",
+    "ステージング環境/Untitled",
+    "ステージング環境",
     "Git.md"
   ]
 }
