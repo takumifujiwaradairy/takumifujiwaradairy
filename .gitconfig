@@ -1,0 +1,6 @@
+
+.obsidian/*
+.obsidian/workspace/*
+.obsidian/plugins/*
+.DS_Store
+~/01_Sample_Code/*
