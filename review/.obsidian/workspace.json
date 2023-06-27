@@ -8,43 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0495edb0543566e",
+            "id": "5177437f19c028be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "コーディング全般/コメントの追加方式について.md",
+                "file": "01_Sample_Code/Rails/htmlをpdfに変換して送信している.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9af3c11e948b75fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "コーディング全般/メソッドの凝集度について.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9586f4eb4d7de004",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UI.UX/導線やページの設計時に考えること.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
+          }      ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI.UX/導線やページの設計時に考えること.md",
+                "file": "01_Sample_Code/Rails/htmlをpdfに変換して送信している.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI.UX/導線やページの設計時に考えること.md",
+                "file": "01_Sample_Code/Rails/htmlをpdfに変換して送信している.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI.UX/導線やページの設計時に考えること.md"
+                "file": "01_Sample_Code/Rails/htmlをpdfに変換して送信している.md"
               }
             }
           }
@@ -171,30 +145,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9586f4eb4d7de004",
+  "active": "38f1e99cc36b6cc1",
   "lastOpenFiles": [
-    "コーディング全般/メソッドの凝集度について.md",
-    "UI.UX/導線やページの設計時に考えること.md",
-    "Untitled 1",
-    "UI.UX",
-    "振り返り/2023/06/22日の学び.md",
-    "コーディング全般/コメントの追加方式について.md",
+    "振り返り/2023/06/26日の学び.md",
+    "抱えている問題/Untitled 2/問題・不足知識.md",
+    "抱えている問題/Untitled 2",
+    "抱えている問題",
+    "作業ツール/IntelliJ IDEA/全体検索が使えない時の対処方.md",
+    "作業ツール/IntelliJ IDEA/ToolTip.md",
+    "作業ツール/IntelliJ IDEA",
+    "作業ツール",
+    "ライブラリ.md",
+    "Untitled.canvas",
+    "Pasted image 20230626214719.png",
+    "2023-06-26.md",
+    "09_Daliy_Reports/2023/06/06-27.md",
+    "09_Daliy_Reports/2023/06",
+    "09_Daliy_Reports/2023",
+    "09_Daliy_Reports",
+    "08_業務効率/エイリアス/Githubのエイリアス.md",
+    "08_業務効率/エイリアス",
+    "07_Life_Hack/ミラーリング.md",
+    "07_Life_Hack",
+    "06_Work/かんたん株式試算/顧客管理画面のチケットの作成.md",
+    "06_Work/かんたん株式試算/環境ユーザーメモ.md",
+    "06_Work/かんたん株式試算",
+    "01_Sample_Code/Rails/htmlをpdfに変換して送信している.md",
+    "01_Sample_Code/Untitled.md",
+    "00_Programming_Memo/React/関数コンポーネントについて.md",
+    "00_Programming_Memo/React/条件分岐のついて.md",
+    "00_Programming_Memo/React/React Fragment について.md",
+    "00_Programming_Memo/React/Contextの設定思想.md",
+    "00_Programming_Memo/JavaScript/ライブラリ/jwt-decode.md",
+    "00_Programming_Memo/Git/基本的なステージングなどリモートブランチの運用方法.md",
+    "00_Programming_Memo/Git/コミットを消した場合.md",
+    "00_Programming_Memo/Git/どうしてもうまく動作しない時.md",
     "React/React Fragment について.md",
-    "振り返り/2023/06",
-    "振り返り/2023",
-    "振り返り",
-    "メモ/Untitled.md",
-    "メモ",
-    "ステージング環境/ステージング環境でエラーが起こってしまった場合.md",
-    "コーディング全般",
     "React/関数コンポーネントについて.md",
     "React/Contextの設定思想.md",
     "Git/基本的なステージングなどリモートブランチの運用方法.md",
-    "Git/コミットを消した場合.md",
-    "Git/どうしてもうまく動作しない時.md",
-    "Untitled",
-    "ステージング環境/Untitled",
-    "ステージング環境",
-    "Git.md"
+    "Git/コミットを消した場合.md"
   ]
 }
