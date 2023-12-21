@@ -1,5 +1,5 @@
-<h2 align="center">🌐 Find Me</h2>
-<p align="center">
+<h2 align="left">🌐 Find Me</h2>
+<p align="left">
   <a href="https://twitter.com/FujiwaraDairy" target="_blank">
     <img alt="twitter icon" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
@@ -8,8 +8,8 @@
   </a>
 </p>
 
-<h2 align="center">💻 My Skills</h2>
-<p align="center">
+<h2 align="left">💻 My Skills</h2>
+<p align="left">
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white" />
   <img alt="RubyOnRails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=Ruby+on+Rails&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
