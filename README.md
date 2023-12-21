@@ -8,13 +8,6 @@
   </a>
 </p>
 
-<h2 align="center">📈 Github Stats</h2>
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=takumifujiwaradairy&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-</p>
-
 <h2 align="center">💻 My Skills</h2>
 <p align="center">
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white" />
