@@ -3,9 +3,6 @@
   <a href="https://twitter.com/FujiwaraDairy" target="_blank">
     <img alt="twitter icon" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://entertainment-diary.com/" target="_blank">
-    <img alt="My Blog" src="https://img.shields.io/badge/My%20Blog-FFA500?style=for-the-badge&logoColor=white" />
-  </a>
 </p>
 
 <h2 align="left">💻 My Skills</h2>
